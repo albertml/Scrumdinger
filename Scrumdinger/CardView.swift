@@ -29,8 +29,7 @@ struct CardView: View {
             .font(.caption)
         }
         .padding()
-        .foregroundColor(.green)
-//        .foregroundColor(scrum.color.accessibleFontColor)
+        .foregroundColor(scrum.color.accessibleFontColor)
     }
 }
 
