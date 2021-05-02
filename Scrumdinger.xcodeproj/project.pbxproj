@@ -16,6 +16,7 @@
 		BD6A5CD4263DA8B5004A1861 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD6A5CD3263DA8B5004A1861 /* ScrumsView.swift */; };
 		BD6A5CD9263DAB42004A1861 /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD6A5CD8263DAB42004A1861 /* Color+Codable.swift */; };
 		BDA648C9263E7E4600D9822E /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDA648C8263E7E4600D9822E /* DetailView.swift */; };
+		BDA648CC263E895500D9822E /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDA648CB263E895500D9822E /* EditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		BD6A5CD3263DA8B5004A1861 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		BD6A5CD8263DAB42004A1861 /* Color+Codable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+Codable.swift"; sourceTree = "<group>"; };
 		BDA648C8263E7E4600D9822E /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		BDA648CB263E895500D9822E /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 				BD6A5CD0263DA311004A1861 /* CardView.swift */,
 				BD6A5CD3263DA8B5004A1861 /* ScrumsView.swift */,
 				BDA648C8263E7E4600D9822E /* DetailView.swift */,
+				BDA648CB263E895500D9822E /* EditView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 			files = (
 				BD585255263D96C5002E59EC /* MeetingView.swift in Sources */,
 				BD6A5CCE263DA1F0004A1861 /* DailyScrum.swift in Sources */,
+				BDA648CC263E895500D9822E /* EditView.swift in Sources */,
 				BD6A5CD1263DA311004A1861 /* CardView.swift in Sources */,
 				BDA648C9263E7E4600D9822E /* DetailView.swift in Sources */,
 				BD6A5CD4263DA8B5004A1861 /* ScrumsView.swift in Sources */,
